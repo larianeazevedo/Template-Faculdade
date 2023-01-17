@@ -11,7 +11,7 @@
 <hr>
 
 <div>
-<img src="https://user-images.githubusercontent.com/87542593/212795072-68413886-d3f0-4a93-8cb5-7e1c118e8db1.jpeg"/>
+<img src="https://user-images.githubusercontent.com/87542593/212795072-68413886-d3f0-4a93-8cb5-7e1c118e8db1.jpeg"/ width="400px">
 </div>
 <div>
 <img src="https://user-images.githubusercontent.com/87542593/212795679-de55b537-cf53-45b9-abb8-cb0a4f2856bb.jpeg"/>
