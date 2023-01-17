@@ -1,7 +1,7 @@
 ## Template-Faculdade
 
 <div>
-  <p>Esse projeto é a pagina web de uma modelo ficticia desenvolvido no curso da UDEMY, onde aplicamos os conhecimentos basicos de HTML e CSS</p>
+  <p>Esse projeto é um template de uma faculdade ficticia desenvolvido no curso da UDEMY, onde aplicamos os conhecimentos básicos de HTML</p>
 </div>
 
 <div style="display: inline_block"><br>
