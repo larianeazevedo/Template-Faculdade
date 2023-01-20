@@ -1,0 +1,68 @@
+
+body{
+    background-image: url(imagens/fundo.png);
+
+}
+#principal{
+    margin: 17px 0;
+}
+
+
+#imagemlogo{
+    padding: 10px;
+    margin: 20px;
+}
+
+#imagemcapa{
+
+}
+
+#conteudo{
+    margin: 25px 210px;
+    font-family: "Helvetica Neue","Roboto",Arial,sans-serif;
+}
+
+h2{
+    color: rgb(1, 1, 70);
+}
+
+#texto{
+    margin: 0 20px;
+}
+
+p{
+    font: 16px;
+}
+
+#cabecalho{
+    text-align: center;
+    margin: 0 60px;
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font: bold;
+    font-family: "Helvetica Neue","Roboto",Arial,sans-serif;
+}
+
+a:link{
+    color: darkblue;
+    padding: 5px 60px;
+}
+
+a:visited{
+    color: darkblue;
+}
+
+a:hover{
+    color: white;
+    background:  darkblue;
+}
+
+#rodape{
+    text-align: center;
+    font: bold;
+}
